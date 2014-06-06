@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>section</key>
+	<dict>
+		<key>iOS</key>
+		<string>Hispark iOS students</string>
+		<key>Members</key>
+		<array>
+			<string>Aashiq</string>
+			<string>manoj</string>
+			<string>Vishnu</string>
+			<string>Meena</string>
+		</array>
+	</dict>
+	<key>section - 2</key>
+	<dict>
+		<key>Android</key>
+		<string>Hispark Android students</string>
+		<key>Members</key>
+		<array>
+			<string>Dencer</string>
+			<string>Imrudeen</string>
+			<string>saravana</string>
+			<string>ashok</string>
+		</array>
+	</dict>
+</dict>
+</plist>
